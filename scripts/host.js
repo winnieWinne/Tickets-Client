@@ -1,0 +1,1 @@
+window.global_url = 'http://119.29.152.169';
